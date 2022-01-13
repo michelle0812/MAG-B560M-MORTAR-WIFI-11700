@@ -1,0 +1,3 @@
+# MAG-B560M-MORTAR-WIFI-11700
+test
+tets
