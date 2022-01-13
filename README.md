@@ -1,4 +1,6 @@
 # MAG-B560M-MORTAR-WIFI-11700
+<img width="450" alt="截圖 2022-01-13 上午11 26 18" src="https://user-images.githubusercontent.com/79300809/149262713-9a9ad345-93f6-4e24-835a-c2b0dfb2cfaf.png">
+
 硬體配置：<br>
 處理器 intel i7-11700<br>
 主機板 msi mag b560m mortar wifi<br>
