@@ -6,6 +6,7 @@
 顯示卡 msi rx6900xt 16gb<br>
 固態硬碟 crucial p5 plus 1tb<br>
 系統 macOS Big Sur 11.6.2 + opencore 0.7.7<br><p>
+  <a href=https://github.com/michelle0812/MAG-B560M-MORTAR-WIFI-11700/blob/main/EFI.zip target=new>Download EFI</a>
 <img width="450" alt="截圖 2022-01-13 上午11 26 18" src="https://user-images.githubusercontent.com/79300809/149262713-9a9ad345-93f6-4e24-835a-c2b0dfb2cfaf.png">
 <img width="450" alt="截圖 2022-01-13 上午11 52 44" src="https://user-images.githubusercontent.com/79300809/149262941-9b041ce0-7a45-4adb-89ba-160bf6409947.png"><br>
 hackintool-system and peripherals[點圖可再放大]<br>
