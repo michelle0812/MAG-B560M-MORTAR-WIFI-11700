@@ -1,5 +1,5 @@
 # MAG-B560M-MORTAR-WIFI-11700
-
+2022.01.11
 處理器 intel i7-11700<br>
 主機板 msi mag b560m mortar wifi(內建intel藍芽、wifi)<br>
 記憶體 t-force ddr4 3600 16gb*4<br>
