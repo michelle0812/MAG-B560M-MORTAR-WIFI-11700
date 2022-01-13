@@ -1,5 +1,5 @@
 # MAG-B560M-MORTAR-WIFI-11700
-<font=12>
+<font size=20>
 硬體配置：<br>
 處理器 intel i7-11700<br>
 主機板 msi mag b560m mortar wifi<br>
