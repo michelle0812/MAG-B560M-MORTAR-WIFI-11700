@@ -4,6 +4,7 @@
 主機板 msi mag b560m mortar wifi<br>
 記憶體 t-force ddr4 3600 16gb*4<br>
 顯示卡 msi rx6900xt 16gb<br>
+固態硬碟 crucial p5 plus 1tb<br>
 系統 macOS Big Sur 11.6.2 + opencore 0.7.7<br><p>
 hackintool-system[點圖可再放大]<br>
 <img width="450" alt="hackintool system 01" src="https://user-images.githubusercontent.com/79300809/149258037-fdbe9431-49c8-4f1b-928c-4df6fa2104af.png"><br>
