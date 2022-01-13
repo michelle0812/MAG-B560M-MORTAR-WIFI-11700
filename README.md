@@ -2,7 +2,7 @@
 
 硬體配置：<br>
 處理器 intel i7-11700<br>
-主機板 msi mag b560m mortar wifi<br>
+主機板 msi mag b560m mortar內建藍芽、wifi<br>
 記憶體 t-force ddr4 3600 16gb*4<br>
 顯示卡 msi rx6900xt 16gb<br>
 固態硬碟 crucial p5 plus 1tb<br>
