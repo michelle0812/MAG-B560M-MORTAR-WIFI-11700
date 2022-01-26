@@ -26,7 +26,7 @@ Wifi、藍芽[點圖可再放大]<br>
 <p>
 2022.01.26 update:<br><p>
 音效卡 Realtek® ALC897 Codec<br>
-boot-args加入 alcid=23，kernel加入AppleALC.kext<br>
+boot-args加入 alcid=23，kernel加入AppleALC.kext [點圖可再放大]<br><br>
 <img width="450" alt="截圖 2022-01-26 上午8 02 09" src="https://user-images.githubusercontent.com/79300809/151080247-410f9c11-1042-45a2-8762-4a6da40dd173.png">
 <img width="450" alt="截圖 2022-01-26 上午8 02 40" src="https://user-images.githubusercontent.com/79300809/151080256-0b3d3a78-4288-4c35-acf7-a478cec0707b.png"><br>
 <img width="450" alt="截圖 2022-01-26 上午8 02 54" src="https://user-images.githubusercontent.com/79300809/151080259-759b70de-e0c3-4b95-b537-0a8ddf0aa6ad.png">
