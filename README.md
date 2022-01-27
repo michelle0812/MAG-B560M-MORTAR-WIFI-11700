@@ -1,4 +1,5 @@
-# MAG-B560M-MORTAR-WIFI-11700 2022.01.11 post
+# MAG-B560M-MORTAR-WIFI-11700 
+# 2022.01.11 post
 <table>
   <tr>
     <td>處理器</td><td>Intel(R) Core(TM) i7-11700</td>
