@@ -25,7 +25,7 @@
     <td>系統</td><td>macOS Big Sur 11.6.2 + OpenCore 0.7.7</td>
   </tr>  
 </table>
-# 不支援處理器顯示晶片Intel® UHD750
+# 不支援處理器顯示晶片Intel® UHD750 <br>
 2022/01/11 post
 
 <a href=https://github.com/michelle0812/MAG-B560M-MORTAR-WIFI-11700/blob/main/EFI.zip target=new>Download EFI</a><br>
