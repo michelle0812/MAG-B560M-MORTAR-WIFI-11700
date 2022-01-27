@@ -5,7 +5,7 @@
     <td>處理器</td><td>Intel(R) Core(TM) i7-11700</td>
   </tr>
   <tr>
-    <td>處理器顯示晶片</td><td>Intel® UHD 顯示晶片 750不支援</td>
+    <td>處理器顯示晶片</td><td>不支援Intel® UHD 顯示晶片 750</td>
   </tr>
   <tr>
     <td>主機板</td><td>MSI MAG B560M Mortar WiFi(內建Intel藍芽、WiFi)</td>
