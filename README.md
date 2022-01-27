@@ -1,38 +1,25 @@
 # MAG-B560M-MORTAR-WIFI-11700
 <table>
-<thead>
-<tr>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Mobo</td>
-<td>MSI-MAG-B560-MORTAR</td>
-</tr>
-<tr>
-<td>CPU</td>
-<td>Intel(R) Core(TM) i7-11700</td>
-</tr>
-<tr>
-<td>GPU</td>
-<td>AMD Radeon RX 570.</td>
-</tr>
-<tr>
-<td>Network</td>
-<td>Realtek PCIe 2.5Gb Ethernet (RTL8125)</td>
-</tr>
-<tr>
-<td>Disk</td>
-<td>SN750</td>
-</tr>
-<tr>
-<td>Bootloader</td>
-<td>OpenCore 0.7.5 Release</td>
-</tr>
-</tbody>
-</table>
+  <tr>
+    <td>主機板</td><td>MSI MAG B560M Mortar WiFi(內建Intel藍芽、WiFi)</td>
+  </tr>
+  <tr>
+    <td>處理器</td><td>Intel(R) Core(TM) i7-11700</td>
+  </tr>
+  <tr>  
+    <td>記憶體</td><td>T-Force DDR4 3600 16GB*4</td>
+  </tr>
+  <tr>
+    <td>顯示卡</td><td>MSI RX 6900XT 16GB</td>
+  </tr>
+  <tr>  
+    <td>固態硬碟</td><td>Crucial P5 Plus 1TB</td>
+  </tr>
+  <tr>
+    <td>系統</td><td>macOS Big Sur 11.6.2 + OpenCore 0.7.7</td>
+  </tr>  
+</table>  
+  
 2022.01.11 post:<br><p>
 處理器 intel i7-11700<br>
 主機板 msi mag b560m mortar wifi(內建intel藍芽、wifi)<br>
