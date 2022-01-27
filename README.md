@@ -1,8 +1,7 @@
-# MAG-B560M-MORTAR-WIFI-11700 
-# 第 11 代 Intel® Core™ i7 處理器 代號Rocket Lake
+# MAG-B560M-MORTAR-WIFI-11700
 <table>
   <tr>
-    <td>處理器</td><td>Intel(R) Core(TM) i7-11700</td>
+    <td>處理器</td><td>Intel(R) Core(TM) i7-11700 處理器代號Rocket Lake</td>
   </tr>
   <tr>
     <td>處理器顯示晶片</td><td>不支援Intel® UHD 顯示晶片 750</td>
