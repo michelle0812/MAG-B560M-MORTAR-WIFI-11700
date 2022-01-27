@@ -1,7 +1,7 @@
 # MAG-B560M-MORTAR-WIFI-11700
 <table>
   <tr>
-    <td>處理器</td><td>Intel(R) Core(TM) i7-11700 處理器代號Rocket Lake</td>
+    <td>處理器</td><td>Intel(R) Core(TM) i7-11700 處理器代號 Rocket Lake</td>
   </tr>
   <tr>
     <td>主機板</td><td>MSI MAG B560M Mortar WiFi</td>
