@@ -1,7 +1,10 @@
-# MAG-B560M-MORTAR-WIFI-11700 
+# MAG-B560M-MORTAR-WIFI-11700 第 11 代 Intel® Core™ i7 處理器 代號Rocket Lake
 <table>
   <tr>
-    <td>處理器</td><td>Intel(R) Core(TM) i7-11700第 11 代 Intel® Core™ i7 處理器代號Rocket Lake</td>
+    <td>處理器</td><td>Intel(R) Core(TM) i7-11700</td>
+  </tr>
+  <tr>
+    <td>處理器顯示晶片</td><td>Intel® UHD 顯示晶片 750不支援</td>
   </tr>
   <tr>
     <td>主機板</td><td>MSI MAG B560M Mortar WiFi(內建Intel藍芽、WiFi)</td>
@@ -11,9 +14,6 @@
   </tr>
   <tr>
     <td>顯示卡</td><td>MSI RX 6900XT 16GB</td>
-  </tr>
-  <tr>
-    <td>iGPU</td><td>in</td>
   </tr>
   <tr>  
     <td>固態硬碟</td><td>Crucial P5 Plus 1TB</td>
