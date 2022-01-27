@@ -55,7 +55,7 @@ boot-args加入 alcid=23，kernel加入AppleALC.kext [點圖可再放大]<br>
 <img width="450" alt="截圖 2022-01-26 上午8 02 40" src="https://user-images.githubusercontent.com/79300809/151080256-0b3d3a78-4288-4c35-acf7-a478cec0707b.png"><br>
 <img width="450" alt="截圖 2022-01-26 上午8 02 54" src="https://user-images.githubusercontent.com/79300809/151080259-759b70de-e0c3-4b95-b537-0a8ddf0aa6ad.png"><br>
 
-# 因為檔案上傳限制25MB，原EFI.zip為28MB，移除AirportItlwm.kext後EFI.zip為13MB
+# 因為檔案上傳限制25MB，原EFI.zip為28MB，移除AirportItlwm.kext後EFI.zip為13MB，wifi驅動請另行下載AirportItlwm.kext.zip
 wifi驅動請另行下載AirportItlwm.kext.zip
  
 
