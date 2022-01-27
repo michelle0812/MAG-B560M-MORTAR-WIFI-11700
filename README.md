@@ -22,6 +22,12 @@
     <td>系統</td><td>macOS Big Sur 11.6.2 + OpenCore 0.7.7</td>
   </tr>  
   <tr>
+    <td>WiFi</td><td>內建Intel AX210 WiFi6E</td>
+  </tr>
+  <tr>
+    <td>藍芽</td><td>內建Intel藍芽</td>
+  </tr>
+  <tr>
     <td>日期</td><td>2022/01/11</td>
   </tr>  
 </table>
