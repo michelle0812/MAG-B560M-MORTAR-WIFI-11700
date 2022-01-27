@@ -27,7 +27,7 @@
 </table>
 
 # 不支援處理器顯示晶片Intel® UHD750 
-<br>2022/01/11 post
+
 
 <a href=https://github.com/michelle0812/MAG-B560M-MORTAR-WIFI-11700/blob/main/EFI.zip target=new>Download EFI</a><br>
 <img width="450" alt="截圖 2022-01-13 上午11 26 18" src="https://user-images.githubusercontent.com/79300809/149262713-9a9ad345-93f6-4e24-835a-c2b0dfb2cfaf.png">
@@ -64,3 +64,4 @@ boot-args加入 alcid=23，kernel加入AppleALC.kext [點圖可再放大]<br>
 
 # 因為檔案上傳限制25MB，原EFI.zip為28MB，移除AirportItlwm.kext後EFI.zip為13MB
 wifi驅動請另行下載AirportItlwm.kext.zip
+  <br>2022/01/11 post
