@@ -1,10 +1,10 @@
 # MAG-B560M-MORTAR-WIFI-11700
 <table>
   <tr>
-    <td>主機板</td><td>MSI MAG B560M Mortar WiFi(內建Intel藍芽、WiFi)</td>
+    <td>處理器</td><td>Intel(R) Core(TM) i7-11700</td>
   </tr>
   <tr>
-    <td>處理器</td><td>Intel(R) Core(TM) i7-11700</td>
+    <td>主機板</td><td>MSI MAG B560M Mortar WiFi(內建Intel藍芽、WiFi)</td>
   </tr>
   <tr>  
     <td>記憶體</td><td>T-Force DDR4 3600 16GB*4</td>
@@ -20,14 +20,8 @@
   </tr>  
 </table>  
   
-2022.01.11 post:<br><p>
-處理器 intel i7-11700<br>
-主機板 msi mag b560m mortar wifi(內建intel藍芽、wifi)<br>
-記憶體 t-force ddr4 3600 16gb*4<br>
-顯示卡 msi rx6900xt 16gb<br>
-固態硬碟 crucial p5 plus 1tb<br>
-系統 macOS Big Sur 11.6.2 + opencore 0.7.7<br><p>
-  <a href=https://github.com/michelle0812/MAG-B560M-MORTAR-WIFI-11700/blob/main/EFI.zip target=new>Download EFI click here</a><br>
+# 2022.01.11 post:
+<a href=https://github.com/michelle0812/MAG-B560M-MORTAR-WIFI-11700/blob/main/EFI.zip target=new>Download EFI click here</a><br>
 <img width="450" alt="截圖 2022-01-13 上午11 26 18" src="https://user-images.githubusercontent.com/79300809/149262713-9a9ad345-93f6-4e24-835a-c2b0dfb2cfaf.png">
 <img width="450" alt="截圖 2022-01-13 上午11 52 44" src="https://user-images.githubusercontent.com/79300809/149262941-9b041ce0-7a45-4adb-89ba-160bf6409947.png"><br>
 hackintool-system and peripherals[點圖可再放大]<br>
