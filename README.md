@@ -7,7 +7,7 @@
     <td>主機板</td><td>MSI MAG B560M Mortar WiFi</td>
   </tr>
   <tr>
-    <td>WiFi</td><td>內建Intel WiFi6E AX210</td>
+    <td>WiFi</td><td>內建Intel WiFi 6E AX210</td>
   </tr>
   <tr>
     <td>藍芽</td><td>內建Intel藍芽</td>
