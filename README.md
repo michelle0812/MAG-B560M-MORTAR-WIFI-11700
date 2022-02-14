@@ -24,12 +24,11 @@
     <td>固態硬碟</td><td>Crucial P5 Plus 1TB</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Big Sur 12.2.1 + OpenCore 0.7.8</td>
+    <td>系統</td><td>macOS Monterey 12.2.1 + OpenCore 0.7.8</td>
   </tr>  
 </table>
 
 # 不支援處理器顯示晶片Intel® UHD750 
-
 
 
 <img width="698" alt="截圖 2022-02-14 上午9 53 14" src="https://user-images.githubusercontent.com/79300809/153787046-4c4eae74-e7c7-457b-b32d-7d0098589721.png">
@@ -37,6 +36,7 @@
 
 # hackintool-system and peripherals[點圖可再放大]<br>
 <img width="450" alt="hackintool system 01" src="https://user-images.githubusercontent.com/79300809/149258037-fdbe9431-49c8-4f1b-928c-4df6fa2104af.png">
+<img width="943" alt="截圖 2022-02-14 上午9 58 40" src="https://user-images.githubusercontent.com/79300809/153787398-8893fcb9-65db-49e0-97b8-1356d579d7ab.png">
 <img width="450" alt="hackintool system 02" src="https://user-images.githubusercontent.com/79300809/149258423-5caef908-1e94-4d15-9833-070c0fa45756.png"><br>
 
 # hackintool-Extensions and USB[點圖可再放大]<br>
