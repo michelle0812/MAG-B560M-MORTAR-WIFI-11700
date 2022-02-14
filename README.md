@@ -31,13 +31,13 @@
 # 不支援處理器顯示晶片Intel® UHD750 
 
 
-<img width="698" alt="截圖 2022-02-14 上午9 53 14" src="https://user-images.githubusercontent.com/79300809/153787046-4c4eae74-e7c7-457b-b32d-7d0098589721.png">
-<img width="923" alt="截圖 2022-02-14 上午9 56 38" src="https://user-images.githubusercontent.com/79300809/153787135-c1f78764-0bb2-4e27-8f75-f353be860123.png"><br>
+<img width="450" alt="截圖 2022-02-14 上午9 53 14" src="https://user-images.githubusercontent.com/79300809/153787046-4c4eae74-e7c7-457b-b32d-7d0098589721.png">
+<img width="450" alt="截圖 2022-02-14 上午9 56 38" src="https://user-images.githubusercontent.com/79300809/153787135-c1f78764-0bb2-4e27-8f75-f353be860123.png"><br>
 
 # hackintool-system and peripherals[點圖可再放大]<br>
-<img width="450" alt="hackintool system 01" src="https://user-images.githubusercontent.com/79300809/149258037-fdbe9431-49c8-4f1b-928c-4df6fa2104af.png">
-<img width="943" alt="截圖 2022-02-14 上午9 58 40" src="https://user-images.githubusercontent.com/79300809/153787398-8893fcb9-65db-49e0-97b8-1356d579d7ab.png">
-<img width="450" alt="hackintool system 02" src="https://user-images.githubusercontent.com/79300809/149258423-5caef908-1e94-4d15-9833-070c0fa45756.png"><br>
+
+<img width="450" alt="截圖 2022-02-14 上午9 58 40" src="https://user-images.githubusercontent.com/79300809/153787398-8893fcb9-65db-49e0-97b8-1356d579d7ab.png">
+<img width="450" alt="截圖 2022-02-14 上午10 02 06" src="https://user-images.githubusercontent.com/79300809/153787601-532494a4-5c6a-4aea-9902-960f49d59959.png"><br>
 
 # hackintool-Extensions and USB[點圖可再放大]<br>
 <img width="450" alt="截圖 2022-01-13 上午11 07 05" src="https://user-images.githubusercontent.com/79300809/149258967-805afac8-8121-4cd2-b565-6aba739d88b7.png">
