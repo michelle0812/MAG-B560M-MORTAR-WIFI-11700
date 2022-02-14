@@ -48,7 +48,7 @@
 
 # Wifi、藍芽[點圖可再放大]<br>
 <img width="450" alt="截圖 2022-01-13 上午11 27 31" src="https://user-images.githubusercontent.com/79300809/149263719-8ba8ad1f-776f-47d4-8815-d5844aa2d9eb.png">
-<img width="450" alt="截圖 2022-01-13 上午11 28 24" src="https://user-images.githubusercontent.com/79300809/149263734-690006b7-0713-48b4-b65c-b07232a1e4a1.png"><br>
+<img width="450" alt="截圖 2022-02-14 上午10 07 38" src="https://user-images.githubusercontent.com/79300809/153788086-cdf15a19-85ce-4fc7-8232-a63a9f9ae1ab.png"><br>
 
 # 顯示卡/顯示器[點圖可再放大]<br>
 <img width="450" alt="截圖 2022-01-13 上午11 28 32" src="https://user-images.githubusercontent.com/79300809/149263764-69baeeee-37bb-40f7-b465-bf07dea19f5e.png"><br>
