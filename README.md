@@ -39,7 +39,7 @@
 <img width="450" alt="截圖 2022-02-14 上午10 02 06" src="https://user-images.githubusercontent.com/79300809/153787601-532494a4-5c6a-4aea-9902-960f49d59959.png"><br>
 
 # hackintool-Extensions and USB[點圖可再放大]<br>
-<img width="943" alt="截圖 2022-02-14 上午10 03 59" src="https://user-images.githubusercontent.com/79300809/153787763-d5217389-a625-487d-9df9-807619d1819f.png">
+<img width="450" alt="截圖 2022-02-14 上午10 03 59" src="https://user-images.githubusercontent.com/79300809/153787763-d5217389-a625-487d-9df9-807619d1819f.png">
 <img width="450" alt="截圖 2022-01-13 上午11 07 25" src="https://user-images.githubusercontent.com/79300809/149259069-cae01829-e94e-4501-ba04-b56e3413c6c0.png"><br>
 
 # USB、乙太網路[點圖可再放大]<br>
