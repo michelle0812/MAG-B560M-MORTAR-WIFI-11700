@@ -32,7 +32,7 @@
 # 不支援處理器顯示晶片Intel® UHD750 
 
 
-<img width="450" alt="截圖 2022-02-14 上午9 53 14" src="https://user-images.githubusercontent.com/79300809/153787046-4c4eae74-e7c7-457b-b32d-7d0098589721.png">
+<img width="450" alt="截圖 2022-03-23 上午7 30 56" src="https://user-images.githubusercontent.com/79300809/159593158-c0aa6f11-d2cc-473d-bd18-d7f2e5b27e62.png">
 <img width="450" alt="截圖 2022-02-14 上午9 56 38" src="https://user-images.githubusercontent.com/79300809/153787135-c1f78764-0bb2-4e27-8f75-f353be860123.png"><br>
 
 # hackintool-system and peripherals[點圖可再放大]<br>
