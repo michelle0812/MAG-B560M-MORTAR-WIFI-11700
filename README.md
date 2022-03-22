@@ -1,5 +1,6 @@
   <br>2022/01/11 post
   <br>2022/02/14 update
+  <br>2022/03/22 update
   # MAG-B560M-MORTAR-WIFI-11700
 <table>
   <tr>
@@ -24,7 +25,7 @@
     <td>固態硬碟</td><td>Crucial P5 Plus 1TB</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Monterey 12.2.1 + OpenCore 0.7.8</td>
+    <td>系統</td><td>macOS Monterey 12.3 + OpenCore 0.7.9</td>
   </tr>  
 </table>
 
