@@ -65,4 +65,4 @@ boot-args加入 alcid=23，kernel加入AppleALC.kext [點圖可再放大]<br>
 # 因為檔案上傳限制25MB，原EFI.zip為28MB，移除AirportItlwm.kext後EFI.zip為13MB
 wifi驅動請另行下載<a href=https://github.com/OpenIntelWireless/itlwm/releases/download/v2.1.0/AirportItlwm_v2.1.0_stable_Monterey.kext.zip target=new>AirportItlwm.kext.zip</a>
 
-<a href=https://github.com/michelle0812/MAG-B560M-MORTAR-WIFI-11700/blob/main/EFI%200214.zip target=new>Download EFI</a><br>(2022.02.14)
+<a href=https://github.com/michelle0812/MAG-B560M-MORTAR-WIFI-11700/blob/main/EFI%200322.zip target=new>Download EFI</a><br>(2022.03.22)
