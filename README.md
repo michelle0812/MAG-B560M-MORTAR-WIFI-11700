@@ -1,6 +1,6 @@
-  <br>2022/01/11 post
-  <br>2022/02/14 update
-  <br>2022/03/22 update
+  <br>2022/01/11 post BigSur 11.6.3
+  <br>2022/02/14 update MacOS 12.2.1
+  <br>2022/03/22 update MacOS 12.3
   # MAG-B560M-MORTAR-WIFI-11700
 <table>
   <tr>
