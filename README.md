@@ -13,7 +13,7 @@
     <td>WiFi</td><td>內建Intel WiFi 6E AX210</td>
   </tr>
   <tr>
-    <td>藍芽</td><td>內建Intel藍芽(功能無法使用，目前還在努力中)</td>
+    <td>藍芽</td><td>內建Intel藍芽(功能無法使用，還在努力中)</td>
   </tr>
   <tr>  
     <td>記憶體</td><td>T-Force DDR4 3600 16GB*4</td>
