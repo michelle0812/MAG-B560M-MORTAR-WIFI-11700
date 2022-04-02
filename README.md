@@ -31,6 +31,9 @@
 </table>
 
 # 不支援處理器顯示晶片Intel® UHD750 
+
+<img width="450" alt="截圖 2022-04-02 下午2 24 44" src="https://user-images.githubusercontent.com/79300809/161370115-04036a42-717f-464f-a67e-4318670555a1.png">
+
 <img width="450" alt="截圖 2022-03-23 上午7 30 56" src="https://user-images.githubusercontent.com/79300809/159593158-c0aa6f11-d2cc-473d-bd18-d7f2e5b27e62.png">
 <img width="450" alt="截圖 2022-03-23 上午7 34 40" src="https://user-images.githubusercontent.com/79300809/159593571-8dd120a1-34ed-4dc6-9195-b8014dfec63b.png">
 
