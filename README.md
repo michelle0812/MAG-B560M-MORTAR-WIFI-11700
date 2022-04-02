@@ -26,7 +26,7 @@
     <td>固態硬碟</td><td>Crucial P5 Plus 1TB</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Monterey 12.3 + OpenCore 0.7.9</td>
+    <td>系統</td><td>macOS Monterey 12.3.1 + OpenCore 0.7.9</td>
   </tr>  
 </table>
 
