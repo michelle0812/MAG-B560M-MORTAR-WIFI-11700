@@ -11,7 +11,7 @@
     <td>WiFi</td><td>內建Intel WiFi 6E AX210</td>
   </tr>
   <tr>
-    <td>藍芽</td><td>內建Intel藍芽(功能無法使用，還在努力中)</td>
+    <td>藍芽</td><td>內建Intel藍芽</td>
   </tr>
   <tr>  
     <td>記憶體</td><td>T-Force DDR4 3600 16GB*4</td>
@@ -23,7 +23,7 @@
     <td>固態硬碟</td><td>Crucial P5 Plus 1TB</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Monterey 12.3.1 + OpenCore 0.7.9</td>
+    <td>系統</td><td>macOS Monterey 12.6.1 + OpenCore 0.8.6</td>
   </tr>  
 </table>
 
