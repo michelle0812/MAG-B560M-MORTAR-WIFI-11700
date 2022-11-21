@@ -1,4 +1,4 @@
-  # Successed: MSI MAG B560M Mortar Wifi
+  # Successed: MSI B560M Mortar Wifi
 <img width="450" src="https://user-images.githubusercontent.com/79300809/202950638-e8667af1-003b-48ff-9f86-743adab4b9bf.png"><br>
 <table>
   <tr>
