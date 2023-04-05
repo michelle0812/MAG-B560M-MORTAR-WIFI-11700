@@ -13,7 +13,7 @@
     <td>藍芽</td><td>內建Intel藍芽</td>
   </tr>
   <tr>  
-    <td>記憶體</td><td>T-Force DDR4 3600 16GB*4</td>
+    <td>記憶體</td><td>T-Force DDR4 3600 16GB*2</td>
   </tr>
   <tr>
     <td>顯示卡</td><td>MSI RX 6900XT 16GB</td>
