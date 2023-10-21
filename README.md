@@ -27,6 +27,4 @@
 </table>
 
 <img width="450" src="https://user-images.githubusercontent.com/79300809/202950638-e8667af1-003b-48ff-9f86-743adab4b9bf.png"><br>
-<img width="450" alt="截圖 2023-03-18 14 57 21" src="https://user-images.githubusercontent.com/79300809/226091109-80a2784a-594a-423f-bc57-a39931576a0e.png"><br>
-<img width="450" alt="截圖 2023-03-18 15 02 33" src="https://user-images.githubusercontent.com/79300809/226091028-351ff87f-9a3c-4356-8c93-290cefe6fc20.png"><br>
-<img width="450" alt="截圖 2023-03-18 15 02 44" src="https://user-images.githubusercontent.com/79300809/226091030-2f8fa917-f014-4507-b7d4-410b8553e79c.png"><br>
+
